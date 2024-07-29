@@ -1,0 +1,68 @@
+.first{
+    border: 10px solid khaki;margin-left: 550px;margin-right:550px ;
+}
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+}
+p{
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 40px;
+color: black;
+}
+.eight{
+background-image: url(https://img.freepik.com/free-photo/laptop-office-plant-black-background-top-view_169016-34505.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+background-attachment: fixed;
+
+}
+a{
+   font-size: xx-large;
+   margin-left: 80px;
+   color: chartreuse;
+text-align: center;
+}
+a:hover{
+background-color: black;
+color: aqua;
+border: 6px solid seagreen;
+
+}
+.second{
+    position: fixed;
+background-color: black;
+}
+    .third{background-image: url(https://png.pngtree.com/thumb_back/fh260/background/20190828/pngtree-design-background-of-person-working-on-his-computer-in-top-view-image_307725.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+
+    }
+    .fourth{background-image: url(https://media.istockphoto.com/id/1534543100/photo/autumn-inspired-office-theme-top-view-of-laptop-steaming-mug-of-pumpkin-spice-latte-stylish.webp?b=1&s=170667a&w=0&k=20&c=5GHsCKL5vjlZeN-snMQytscvAByU_J6QoXnbE4Xeeuc=);
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+
+    }
+    .fifth{background-image: url(https://media.istockphoto.com/id/1308415974/photo/office-desktop-with-computer-and-accessories.webp?b=1&s=170667a&w=0&k=20&c=h_J4E0S7CrcqNzjtNqjcJWaiVACbPOfNayF57RqYJ3U=);
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+
+    }
+    .sixth{background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZXusHTODCM_Gk_D0TTFP9oohAMP-tIc7zsw&s);
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+
+    }
+    .seventh{
+        background-image: url(https://us.123rf.com/450wm/artinspiring/artinspiring1608/artinspiring160800584/63287856-desktop-with-laptop-cactus-pencils-and-plant-concept-of-home-office-or-personal-workplace-light-and.jpg?ver=6);
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+    }
+    .nim{
+        position: fixed;
+    }
